@@ -1,0 +1,8 @@
+*.class
+*.log
+*.war
+/.settings/
+/.project
+.classpath
+build/
+target/
